@@ -38,7 +38,7 @@ This module helps teachers to register a student by providing all the required d
 ![Sreg](https://user-images.githubusercontent.com/64159652/98091516-88e6cc80-1eab-11eb-8df9-c24f4c6a023b.PNG)
 
 ### Find Student's Admission number
-This module helps the teacher to find a student's admission number by proving their class and std.
+This module helps the teacher to find a student's admission number by selecting their class and std from dropdown.
 Note : Admission no. is provided for the teachers so that it can be used in the succeeding module.
 
 ![findS](https://user-images.githubusercontent.com/64159652/98091776-dbc08400-1eab-11eb-8606-9de2b15e7521.PNG)
@@ -65,7 +65,7 @@ This module helps the teacher to add a student's examination mark in their repor
 
 ### Student Home Page
 
-The home page helps the student's to see their examination marks in each exam with subject detaila and average.
+The home page helps the student's to see their examination marks in each exam with subject details and average.
 
 ![homeS](https://user-images.githubusercontent.com/64159652/98092391-9f415800-1eac-11eb-8e02-77f5eadc0b5d.PNG)
 
