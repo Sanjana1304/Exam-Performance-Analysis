@@ -52,15 +52,15 @@ This module helps the teacher to see a student's performance analysis and progre
 This module helps the teacher to add a student's examination mark in their report card.
 -Quarterly
 
-![addQ](https://user-images.githubusercontent.com/64159652/98092121-56899f00-1eac-11eb-8923-d2705aa49e53.PNG)
+![addQ](https://user-images.githubusercontent.com/64159652/98235004-3f6baf80-1f87-11eb-90b8-e3ae5f42fbe0.PNG)
 
 -Half Yearly
 
-![addH](https://user-images.githubusercontent.com/64159652/98092163-62756100-1eac-11eb-92df-fe23f54bce02.PNG)
+![addH](https://user-images.githubusercontent.com/64159652/98234996-3c70bf00-1f87-11eb-8773-a6dde62601fc.PNG)
 
 -Annual Exam
 
-![addA](https://user-images.githubusercontent.com/64159652/98092206-6bfec900-1eac-11eb-8869-51cfa7dfbcbc.PNG)
+![addA](https://user-images.githubusercontent.com/64159652/98234985-3a0e6500-1f87-11eb-92c6-96eca18ed65c.PNG)
 
 
 ### Student Home Page
