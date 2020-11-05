@@ -50,15 +50,15 @@ This module helps the teacher to see a student's performance analysis and progre
 
 ### Add marks:
 This module helps the teacher to add a student's examination mark in their report card.
--Quarterly
+- Quarterly
 
 ![addQ](https://user-images.githubusercontent.com/64159652/98235004-3f6baf80-1f87-11eb-90b8-e3ae5f42fbe0.PNG)
 
--Half Yearly
+- Half Yearly
 
 ![addH](https://user-images.githubusercontent.com/64159652/98234996-3c70bf00-1f87-11eb-8773-a6dde62601fc.PNG)
 
--Annual Exam
+- Annual Exam
 
 ![addA](https://user-images.githubusercontent.com/64159652/98234985-3a0e6500-1f87-11eb-92c6-96eca18ed65c.PNG)
 
