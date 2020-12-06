@@ -76,5 +76,5 @@ This module helps the student to see their performance analysis and progress rep
 ![perfAnalysisStud](https://user-images.githubusercontent.com/64159652/98092708-fba47780-1eac-11eb-8cee-0431f9293042.PNG)
 
 
-### Software:
-- Built on Visual Studio Code
+### Built on :
+- Visual Studio Code
